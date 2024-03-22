@@ -1,3 +1,2 @@
-# CharMechAnim_Zaidan
-
-Developed with Unreal Engine 5
+# TPSStudy_Zaidan
+ Third Person Game mechanics Study Agate Course Task
